@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaEnlazada>
+    <cabecera>
+        <persona>
+            <apellido>Farias</apellido>
+            <cedula>657416411</cedula>
+            <email>AlejandraFarias@hotmail.com</email>
+            <id>1</id>
+            <nombre>Alejandra</nombre>
+            <telefono>1189254254</telefono>
+        </persona>
+        <siguiente>
+            <persona>
+                <apellido>Parra</apellido>
+                <cedula>793407157</cedula>
+                <email>IvanParra@hotmail.com</email>
+                <id>1</id>
+                <nombre>Ivan</nombre>
+                <telefono>2055786447</telefono>
+            </persona>
+            <siguiente>
+                <persona>
+                    <apellido>Gomez</apellido>
+                    <cedula>1050194131</cedula>
+                    <email>SergioGomez@hotmail.com</email>
+                    <id>1</id>
+                    <nombre>Sergio</nombre>
+                    <telefono>736561093</telefono>
+                </persona>
+            </siguiente>
+        </siguiente>
+    </cabecera>
+</listaEnlazada>
